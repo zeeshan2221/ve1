@@ -1,0 +1,7 @@
+openai
+moviepy
+imageio
+matplotlib
+numpy
+pandas
+requests
