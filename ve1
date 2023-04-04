@@ -3,7 +3,7 @@ import json
 import os
 
 # Set up OpenAI API credentials
-api_key = 'YOUR_API_KEY_HERE'
+api_key = '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'
 headers = {
     'Content-Type': 'application/json',
     'Authorization': f'Bearer {api_key}'
